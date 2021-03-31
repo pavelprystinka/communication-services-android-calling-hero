@@ -67,5 +67,8 @@ Chosen option: "", because...
 - Kotlin stdlib adds an extra 750KB. It is mitigated if application is already using Kotlin.
 - Devs need to learn Kotlin. Get a crash course on language (a few hours) is good enough to read code and write code with some cheat sheet. Will take a bit longer to master.
 
+#### Notes
+
+Code style check enforce: ktlint - enforces the official Jetbrains style guide and the Google Android style guide. Topic is discussed [here](https://teams.microsoft.com/l/message/19:8b8a303496dc4b509ee2a476775b26ed@thread.skype/1593014661883?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&groupId=405885d7-7566-4fd8-ab74-09b2e641d007&parentMessageId=1593014661883&teamName=Android%20%40Microsoft&channelName=Kotlin&createdTime=1593014661883)
 
 <!-- markdownlint-disable-file MD013 -->
